@@ -1,4 +1,4 @@
-# Kafka Events Prodcuer and Consumer
+# Kafka Events Producer and Consumer
 
 **Description :**
 
