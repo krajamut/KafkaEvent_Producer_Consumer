@@ -8,7 +8,7 @@
 
 **2. KafkaSwipeConsumer Service**
   - Listens to the Kafka topic where the employees swipe events are captured and fetches the messages
-  - While receiving the data from, it deserializes the data from Avro to POJO format
+  - While receiving the data, it deserializes the data from Avro to POJO format
   - Then it stores the data into MongoDB 
   - When post swipe event api is invoked for storing the event manually, it checks for the duplicate entries and overwrite the entries based on Employee number and Swipe Event.
   - Exposes API for getting all the employee swipe events
