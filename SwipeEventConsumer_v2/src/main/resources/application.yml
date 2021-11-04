@@ -1,0 +1,17 @@
+server:
+  port: 8082
+
+spring:
+  kafka:         
+   consumer:
+      group-id: group_id
+      topic: quickstart
+      bootstrap-servers:
+      - localhost:9092
+      
+  data:
+    mongodb:
+      database: swipe
+      host: localhost
+      port: 27017
+   
