@@ -1,0 +1,21 @@
+{
+  "type" : "record",
+  "name" : "Swipe",
+  "namespace" : "com.kiruthika.pojoavro.model",
+  "fields" : [ {
+    "name" : "dept",
+    "type" : [ "null", "string" ]
+  }, {
+    "name" : "empNo",
+    "type" : [ "null", "string" ]
+  }, {
+    "name" : "eventId",
+    "type" : {
+      "type" : "int",
+      "java-class" : "java.lang.Integer"
+    }
+  }, {
+    "name" : "swipeTime",
+    "type" : [ "null", "string" ]
+  } ]
+}
