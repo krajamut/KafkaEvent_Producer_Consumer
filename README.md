@@ -2,7 +2,7 @@
 
 **Description :**
 
-**1. **KafkaSwipeProducer Service :****
+**1. **KafkaSwipeProducer Service****
   - Captures Employees swipe in/swipe out details for every 30 seconds and send it for Kafka
   - While sending the data to Kakfa, it serializes the data to Avro format
 
