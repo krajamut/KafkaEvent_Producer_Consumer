@@ -16,3 +16,12 @@
   - Converts the Pojo model to Avro format which can be referred in serializer and deserializer classes implementation
 
 
+**Technical Details**
+
+1. Microservices - Springboot 2.5.6 & JAVA 8
+2. Documentation - Swagger - 2.10.0
+3. Containerization - Docker 4.1.1
+4. Database - MongoDB 4.4
+
+
+
