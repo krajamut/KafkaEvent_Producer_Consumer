@@ -24,6 +24,7 @@
 2. Documentation - Swagger - 2.10.0
 3. Containerization - Docker 4.1.1
 4. Database - MongoDB 4.4
+5. Event Streaming - Kafka
 
 
 
