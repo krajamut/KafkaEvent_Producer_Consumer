@@ -1,1 +1,1 @@
-# Pojo class to Avro conversion and Avro to Pojo Conversion 
+# Pojo to Avro conversion and viceversa
